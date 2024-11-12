@@ -28,24 +28,24 @@ Mall Customer Segmentation Data downloaded from Kaggle
 ## Recommendation for Marketing: 
 - Based on the characteristics of each cluster, tried to recommend a tailored marketing strategies as follows:
 - ### Cluster 0 (Moderate-Income, Moderate-Spending):
-  Average Age: 50.4
-  Annual Income: $60.5k
-  Spending Score: 33.3
-  **Recommendation**: Focus on appealing, trendy yet affordable products with limited-time offers.
-  Marketing Approach: Utilize social media and seasonal campaigns to create a sense of urgency and style.
+  - Average Age: 50.4
+  - Annual Income: $60.5k
+  - Spending Score: 33.3
+  - **Recommendation**: Focus on appealing, trendy yet affordable products with limited-time offers.
+  - **Marketing Approach**: Utilize social media and seasonal campaigns to create a sense of urgency and style.
 
 - ### Cluster 1 (High-Income, High-Spending):
-  Average Age: 32.9
-  Annual Income: $87.3k
-  Spending Score: 80.0
-  **Recommendation**: Target with premium product offerings and loyalty programs to drive repeat purchases.
-  Marketing Approach: Focus on exclusive rewards, early access to products, and high-value offerings.
+  - Average Age: 32.9
+  - Annual Income: $87.3k
+  - Spending Score: 80.0
+  - **Recommendation**: Target with premium product offerings and loyalty programs to drive repeat purchases.
+  - **Marketing Approach**: Focus on exclusive rewards, early access to products, and high-value offerings.
 
 - ### Cluster 2 (Moderate-Income, Moderate-Spending):
-  Average Age: 25.1
-  Annual Income: $43.3k
-  Spending Score: 56.5
-  **Recommendation**: Focus on appealing, trendy yet affordable products with limited-time offers.
-  Marketing Approach: Utilize social media and seasonal campaigns to create a sense of urgency and style.
+  - Average Age: 25.1
+  - Annual Income: $43.3k
+  - Spending Score: 56.5
+  - **Recommendation**: Focus on appealing, trendy yet affordable products with limited-time offers.
+  - **Marketing Approach**: Utilize social media and seasonal campaigns to create a sense of urgency and style.
 
 
